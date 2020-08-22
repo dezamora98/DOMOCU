@@ -1,0 +1,2 @@
+ 
+En esta zona se guardaran las huellas que sean necesario crear y no se encuentren en la herramienta de diseño
