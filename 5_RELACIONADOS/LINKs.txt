@@ -1,0 +1,2 @@
+ 
+-> reles por ethernet con arduino -> https://electronics4all.wordpress.com/2015/03/24/4-ch-web-controlled-ethernet-relay/
