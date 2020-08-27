@@ -1,0 +1,951 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"de",
+				"defs\tMethod"
+			],
+			[
+				"cl",
+				"cliente"
+			],
+			[
+				"in",
+				"inc\t#include <…>"
+			],
+			[
+				"Bui",
+				"BuildEstado"
+			],
+			[
+				"s",
+				"sensor"
+			],
+			[
+				"vetor",
+				"vector\tstd::vector"
+			],
+			[
+				"string",
+				"string\tstandard header"
+			],
+			[
+				"pr",
+				"propiedad"
+			],
+			[
+				"vec",
+				"vector\tstandard header"
+			],
+			[
+				"d",
+				"def\t#ifndef … #define … #endif"
+			],
+			[
+				"co",
+				"connect"
+			],
+			[
+				"Q",
+				"QObject"
+			],
+			[
+				"inc",
+				"inc\t#include <…>"
+			],
+			[
+				"def",
+				"defs\tMethod"
+			],
+			[
+				"Contac",
+				"ContactFile"
+			],
+			[
+				"wir",
+				"write"
+			],
+			[
+				"Cont",
+				"ContactFile"
+			],
+			[
+				"Con",
+				"ContactFile"
+			],
+			[
+				"La",
+				"LabelFrame"
+			],
+			[
+				"st",
+				"sticky"
+			],
+			[
+				"but",
+				"buttons_rame"
+			],
+			[
+				"Lae",
+				"Label"
+			],
+			[
+				"num",
+				"number_chosen"
+			],
+			[
+				"nu",
+				"number_chosen"
+			],
+			[
+				"name",
+				"name_entered"
+			],
+			[
+				"nam",
+				"name_entered"
+			],
+			[
+				"c",
+				"column"
+			],
+			[
+				"a",
+				"a_label"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"f",
+				"for\tFor Loop"
+			],
+			[
+				"x",
+				"xml\tXML Processing Instruction"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"cal",
+				"calc_pure_python"
+			],
+			[
+				"c_",
+				"c_imag"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"i",
+				"in\tschema include"
+			],
+			[
+				"o",
+				"out\tstylesheet include"
+			],
+			[
+				"en",
+				"ent\tentity declaration"
+			],
+			[
+				"xml",
+				"xml-xsl\txml-xsl bounding instruction"
+			],
+			[
+				"xs",
+				"xsl\tXML stylesheet instruction"
+			],
+			[
+				"daddy",
+				"daddyContactsNameSpace"
+			],
+			[
+				"daddyCon",
+				"daddyContact"
+			],
+			[
+				"dadd",
+				"daddyContact"
+			],
+			[
+				"xm",
+				"xml\tXML Processing Instruction"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"animat",
+				"animation"
+			],
+			[
+				"m",
+				"map\tstd::map"
+			],
+			[
+				"is",
+				"iterator\tstandard header"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"b",
+				"bool"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			],
+			[
+				"prin",
+				"print_square"
+			],
+			[
+				"std",
+				"math.h\tstandard header"
+			],
+			[
+				"cond",
+				"cond2"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"stdio",
+				"stdio.h\tstandard header"
+			],
+			[
+				"movi",
+				"movie"
+			],
+			[
+				"mo",
+				"movie"
+			],
+			[
+				"l",
+				"library"
+			],
+			[
+				"e",
+				"elseif\telseif"
+			],
+			[
+				"ent",
+				"entarch\tentity architecture"
+			],
+			[
+				"else",
+				"elseif\telseif"
+			],
+			[
+				"P",
+				"PostSacaler"
+			],
+			[
+				"S",
+				"SuperLastInterruptor"
+			],
+			[
+				"Super",
+				"SuperInterruptor"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"C++",
+				"Set Syntax: C++"
+			],
+			[
+				"control",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"pytho\t",
+				"Set Syntax: Python"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"pyto",
+				"Set Syntax: Python"
+			],
+			[
+				"c+",
+				"Set Syntax: C++"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"file",
+				"View Package File"
+			],
+			[
+				"colors",
+				"UI: Select Color Scheme"
+			],
+			[
+				"pyht",
+				"Set Syntax: Python"
+			],
+			[
+				"\tpytho",
+				"Build With: Python"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"\tC++\t",
+				"Set Syntax: C++"
+			],
+			[
+				"XML\t",
+				"Set Syntax: XML"
+			],
+			[
+				"pyt\t",
+				"Set Syntax: Python"
+			],
+			[
+				"Set Syntax : C",
+				"Set Syntax: C"
+			],
+			[
+				"\tpyth",
+				"Set Syntax: Python"
+			],
+			[
+				"build",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"pyh",
+				"Build With: Python"
+			],
+			[
+				"plugin",
+				"Plugin Development: Convert Syntax to .sublime-syntax"
+			],
+			[
+				"VHDL\t",
+				"Set Syntax: VHDL"
+			],
+			[
+				"C++\t",
+				"Set Syntax: C++"
+			],
+			[
+				"view\t",
+				"View Package File"
+			],
+			[
+				"snipper\t",
+				"Snippet: XML Processing Instruction"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"snippet",
+				"Snippet: CDATA"
+			],
+			[
+				"xml\t",
+				"Set Syntax: XML"
+			],
+			[
+				"XMl",
+				"Set Syntax: XML"
+			],
+			[
+				"XML",
+				"Set Syntax: XML"
+			],
+			[
+				"X",
+				"Set Syntax: XML"
+			],
+			[
+				"C",
+				"Set Syntax: C"
+			],
+			[
+				"VHDL",
+				"Set Syntax: VHDL"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"MAt",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"Mat",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"vhd",
+				"Set Syntax: VHDL"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"view f",
+				"View Package File"
+			],
+			[
+				"VHD",
+				"Set Syntax: VHDL"
+			],
+			[
+				"con",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"contr",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"install",
+				"Install Package Control"
+			],
+			[
+				"i",
+				"Install Package Control"
+			],
+			[
+				"view",
+				"View Package File"
+			],
+			[
+				"view ",
+				"View Package File"
+			],
+			[
+				"packa",
+				"View Package File"
+			],
+			[
+				"VH",
+				"Set Syntax: VHDL"
+			],
+			[
+				"vhdl",
+				"Set Syntax: VHDL"
+			],
+			[
+				"",
+				"Build: New Build System"
+			],
+			[
+				"bui",
+				"Build With: Python"
+			],
+			[
+				"build ",
+				"Build With: Python"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"st HTM",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"vHLD",
+				"Set Syntax: VHDL"
+			],
+			[
+				"git",
+				"Set Syntax: Git Config"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"g",
+				"Set Syntax: Git Config"
+			],
+			[
+				"gi",
+				"Set Syntax: Git Commit"
+			],
+			[
+				"sni",
+				"Preferences: Settings"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			],
+			[
+				"Cda",
+				"Snippet: CDATA"
+			],
+			[
+				"xm",
+				"Set Syntax: XML"
+			],
+			[
+				"ins",
+				"Set Syntax: ActionScript"
+			],
+			[
+				"n",
+				"Snippet: Namespace"
+			],
+			[
+				"p",
+				"Set Syntax: Python"
+			],
+			[
+				"got",
+				"Set Syntax: Git Commit"
+			],
+			[
+				"close",
+				"UI: Select Color Scheme"
+			],
+			[
+				"op",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"s",
+				"Snippet: Enumeration"
+			],
+			[
+				"set C",
+				"Set Syntax: C"
+			],
+			[
+				"snippe",
+				"Snippet: XML Processing Instruction"
+			],
+			[
+				"snipp",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"set p",
+				"Set Syntax: Python"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			],
+			[
+				"instal",
+				"Install Package Control"
+			],
+			[
+				"sublime tu",
+				"Plugin Development: Convert Syntax to .sublime-syntax"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"color",
+			"clc",
+			"clear",
+			"help",
+			"help]",
+			"help",
+			"exit",
+			"clear",
+			"echo aloja",
+			"clear",
+			"cmd",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exist(ipp) else None ;urllib2.instal_opener(urllib2.build_opener(urllib2.ProxyHandler())) ; open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()) ; print('Please restart sublime text to finish instalation')",
+			"import urllib2,os; ",
+			"import urllib2,os; pf='Package Control.sublime-package';ipp=sublime.installed_packages_path(); os.makedirs(ipp) if",
+			"# Class/function to process verilog file",
+			"# Some util function linked directly to sublime",
+			"from __future__ import absolute_import",
+			"import sublime, sublime_plugin",
+			"clc",
+			"clear",
+			"load package",
+			"%YAML 1.2"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/SoftwareFolders/SistemaDomotico"
+	],
+	"file_history":
+	[
+		"/C/Users/PAPI/Desktop/falta del business",
+		"/D/Business/PAPI-business/EXPLORE/toures y excursiones/excursiones.txt",
+		"/D/Business/PAPI-business/EXPLORE/servicios.txt",
+		"/D/Business/PAPI-business/EXPLORE/regalo.txt",
+		"/D/Business/PAPI-business/EXPLORE/recursos.txt",
+		"/D/Business/PAPI-business/EXPLORE/toures y excursiones/toures.txt",
+		"/D/Business/PAPI-business/EXPLORE/AIRB&B.txt",
+		"/D/Business/PAPI-business/EXPLORE/contacto.txt",
+		"/D/Business/PAPI-business/EXPLORE/aclarar_omar.txt",
+		"/C/SoftwareFolders/SistemaDomotico/SistemaDomotico.sublime-project",
+		"/C/SoftwareFolders/SistemaDomotico/readme.txt",
+		"/C/Users/PAPI/AppData/Roaming/Sublime Merge/Packages/User/Preferences.sublime-settings",
+		"/D/Business/PAPI-business/TronoTech-OlimpoTech/SystemDoc.txt",
+		"/D/Business/PAPI-business/TronoTech-OlimpoTech/inf.txt",
+		"/D/Business/PAPI-business/TronoTech-OlimpoTech/RepoInf.txt",
+		"/C/Users/PAPI/Downloads/emacs/DOMOCU-master/DOMOCU-master/README.md",
+		"/C/Users/PAPI/Downloads/emacs/DOMOCU-master/DOMOCU-master/5_RELACIONADOS/LINKs.txt",
+		"/C/Users/PAPI/Downloads/emacs/DOMOCU-master/DOMOCU-master/4_SOFTWARE/SOFTWARE.txt",
+		"/C/Users/PAPI/Downloads/emacs/DOMOCU-master/DOMOCU-master/3_HARDWARE/PCB/PCB/PCB.txt",
+		"/C/Users/PAPI/Downloads/emacs/DOMOCU-master/DOMOCU-master/3_HARDWARE/PCB/HUELLAS/HUELLAS.txt",
+		"/C/Users/PAPI/Downloads/emacs/DOMOCU-master/DOMOCU-master/2_COMPRAS/COMPRAS.txt",
+		"/C/Users/PAPI/Downloads/emacs/DOMOCU-master/DOMOCU-master/1_PLAN/PLAN.txt",
+		"/C/Users/PAPI/Downloads/emacs/core-0.114.4/core-0.114.4/README.rst",
+		"/C/SoftwareFolders/SistemaDomotico/cppProject/contacto.cpp",
+		"/D/Business/PAPI-business/TronoTech-OlimpoTech/RepoInf",
+		"/D/TheCloud/afrusmakuskapus/FuckingKeys.txt",
+		"/C/SoftwareFolders/SistemaDomotico/cppProject/cliente.h",
+		"/C/SoftwareFolders/SistemaDomotico/cppProject/propiedad.h",
+		"/C/SoftwareFolders/SistemaDomotico/pythonProject/propiedad.py",
+		"/C/SoftwareFolders/SistemaDomotico/pythonProject/cliente.py",
+		"/C/SoftwareFolders/SistemaDomotico/cppProject/sistemaDomotico.h",
+		"/C/SoftwareFolders/SistemaDomotico/pythonProject/sistemaDomotico.py",
+		"/C/SoftwareFolders/SistemaDomotico/cppProject/controlador.h",
+		"/C/SoftwareFolders/SistemaDomotico/pythonProject/controlador.py",
+		"/C/SoftwareFolders/SistemaDomotico/pythonProject/actuador.py",
+		"/C/SoftwareFolders/SistemaDomotico/pythonProject/contacto.py",
+		"/C/SoftwareFolders/SistemaDomotico/pythonProject/sensor.py",
+		"/C/SoftwareFolders/SistemaDomotico/cppProject/contacto.h",
+		"/C/SoftwareFolders/SistemaDomotico/cppProject/actuador.h",
+		"/C/SoftwareFolders/SistemaDomotico/cppProject/sensor.h",
+		"/C/SoftwareFolders/SistemaDomotico/.gitignore",
+		"/C/SoftwareFolders/ew/.gitignore",
+		"/C/Users/PAPI/Desktop/the conjuring & iron maiden.txt",
+		"/C/SoftwareFolders/SistemaDomotico/cppProject/actuador.cpp",
+		"/C/SoftwareFolders/SistemaDomotico/cppProject/cliente.cpp",
+		"/C/SoftwareFolders/SistemaDomotico/cppProject/controlador.cpp",
+		"/C/SoftwareFolders/SistemaDomotico/cppProject/propiedad.cpp",
+		"/C/SoftwareFolders/SistemaDomotico/cppProject/sensor.cpp",
+		"/C/SoftwareFolders/SistemaDomotico/cppProject/sistemaDomotico.cpp",
+		"/C/SoftwareFolders/SistemaDomotico/pythonProject/instrumentacion.py",
+		"/C/SoftwareFolders/SistemaDomotico/cppProject/main.c",
+		"/C/SoftwareFolders/SistemaDomotico/cppProject/instrumentacino.h",
+		"/C/Users/PAPI/AppData/Roaming/Sublime Text 3/Packages/Default/colors.py",
+		"/C/SoftwareFolders/Codeblocks/firstSystem/cliente.cpp",
+		"/C/SoftwareFolders/Codeblocks/firstSystem/cliente.h",
+		"/C/SoftwareFolders/Codeblocks/firstSystem/contacto.cpp",
+		"/C/SoftwareFolders/Codeblocks/firstSystem/contacto.h",
+		"/C/SoftwareFolders/Codeblocks/firstSystem/propiedad.cpp",
+		"/C/SoftwareFolders/Codeblocks/firstSystem/propiedad.h",
+		"/C/Program Files (x86)/Sublime Text 3/Packages/Color Scheme - Default.sublime-package",
+		"/C/SoftwareFolders/SublimeText/C++/module_information.txt",
+		"/C/SoftwareFolders/SublimeText/C++/informacion_modulo.cpp",
+		"/C/SoftwareFolders/SublimeText/VHDL/HeaderComment.vhd",
+		"/C/SoftwareFolders/Codeblocks/firstSystem/sistemaDomotico.h",
+		"/C/SoftwareFolders/Codeblocks/firstSystem/sistemaDomotico.cpp",
+		"/C/SoftwareFolders/Codeblocks/firstSystem/sensor.h",
+		"/C/SoftwareFolders/Codeblocks/firstSystem/sensor.cpp",
+		"/C/SoftwareFolders/Codeblocks/firstSystem/actuador.cpp",
+		"/C/SoftwareFolders/Codeblocks/firstSystem/actuador.h",
+		"/C/SoftwareFolders/Codeblocks/firstSystem/controlador.cpp",
+		"/C/SoftwareFolders/Codeblocks/firstSystem/controlador.h",
+		"/C/SoftwareFolders/Codeblocks/firstSystem/firstSystem.cbp",
+		"/C/SoftwareFolders/Codeblocks/KK.cpp",
+		"/C/SoftwareFolders/Qt/QProgramstrep/HelloQt.cpp",
+		"/C/Qt/Qt5.4.0/InstallationLog.txt",
+		"/C/SoftwareFolders/Qt/repQtPrograms/QuitButton.cpp",
+		"/C/SoftwareFolders/Qt/repQtPrograms/LayingOutWidgets.cpp",
+		"/C/SoftwareFolders/Qt/CppGuiProgrammingBook/HelloQt.cpp",
+		"/C/SoftwareFolders/SistemaDomotico/pythonProject/contacto.h",
+		"/C/SoftwareFolders/SistemaDomotico/pythonProject/contacto.cpp",
+		"/C/SoftwareFolders/SistemaDomotico/pythonProject/contact.py",
+		"/C/SoftwareFolders/domoSystem/contact.py",
+		"/D/TheCloud/afrusmakuskapus/contacts/contactsXML/daddyContacts.xsd",
+		"/C/SoftwareFolders/SublimeText/Python/daddyContacts.py",
+		"/D/TheCloud/afrusmakuskapus/contacts/contactsXML/victor.xml",
+		"/C/Users/PAPI/Desktop/ContactAddr+ContactName",
+		"/D/TheCloud/afrusmakuskapus/contacts/contactsXML/daddyContactsProccesing.xslt",
+		"/C/SoftwareFolders/SublimeText/Python/PythonCookbook/daddyContacts.py",
+		"/C/SoftwareFolders/SublimeText/Python/PythonCookbook/testAll.py",
+		"/C/Users/PAPI/AppData/Local/Programs/Python/Python38/Lib/site-packages/daddyDowmloadedPackages/control-0.8.3/README.rst",
+		"/D/Cience/Software/Python/packages/GUI design/PySimpleGUI-4.28.0-py3-none-any.whl",
+		"/D/Cience/Software/Python/packages/control-0.8.3/README.rst",
+		"/C/Users/PAPI/AppData/Local/Programs/Python/Python38/Lib/site-packages/Django-1.11.6-py3.8.egg/django/contrib/admin/sites.py",
+		"/C/Users/PAPI/AppData/Local/Programs/Python/Python38/Lib/site-packages/README.txt",
+		"/C/Users/PAPI/AppData/Local/Programs/Python/Python38/Lib/site-packages/daddyDowmloadPackages/GUI design/PyQt5-5.15.1.dev2008081558/PyQt5-5.15.1.dev2008081558/README",
+		"/C/Users/PAPI/AppData/Local/Programs/Python/Python38/Lib/site-packages/daddyDowmloadPackages/control-0.8.3/README.rst",
+		"/C/Users/PAPI/AppData/Local/Programs/Python/Python38/Lib/site-packages/pip-19.2.3.dist-info/entry_points.txt",
+		"/C/SoftwareFolders/SublimeText/Python/PythonCookbook/gui_textbox_widget.py",
+		"/C/SoftwareFolders/SublimeText/Python/PythonCookbook/GUI_not_resizable.py",
+		"/C/SoftwareFolders/SublimeText/Python/PythonCookbook/firstGuiPython.py",
+		"/C/SoftwareFolders/SublimeText/Python/PythonCookbook/GUI_add_label.py",
+		"/C/SoftwareFolders/SublimeText/Python/PythonCookbook/GUI_create_buttom_change.py",
+		"/C/Users/PAPI/AppData/Local/Programs/Python/Python38/Lib/site.py",
+		"/C/Users/PAPI/AppData/Local/Programs/Python/Python38/LICENSE.txt",
+		"/C/Users/PAPI/AppData/Local/Programs/Python/Python38/NEWS.txt",
+		"/D/Cience/Software/Python/packages/GUI design/PyQt5-5.15.1.dev2008081558/PyQt5-5.15.1.dev2008081558/__init__.py",
+		"/D/Cience/Software/Python/packages/GUI design/PyQt5-5.15.1.dev2008081558/PyQt5-5.15.1.dev2008081558/README",
+		"/C/Users/PAPI/AppData/Roaming/Sublime Text 3/Packages/User/xml/androidNamespace.sublime-snippet",
+		"/D/Business/PAPI-business/TronoTech-OlimpoTech/inf",
+		"/D/LightningFiles/CloudMisiones/ahora.txt",
+		"/C/SoftwareFolders/SublimeText/VHDL/vga_controller_ucf.vhd",
+		"/C/SoftwareFolders/SublimeText/VHDL/vga_sinc.vhd",
+		"/C/SoftwareFolders/SublimeText/VHDL/pixel_gen.vhd",
+		"/D/TheCloud/afrusmakuskapus/contacts/contactsXML/python_libr_design.py",
+		"/C/Users/PAPI/Desktop/Yandier.txt",
+		"/D/LightningFiles/detalles.txt",
+		"/C/Users/PAPI/Desktop/Yandier",
+		"/C/SoftwareFolders/Codeblocks/kk/test.cpp",
+		"/D/TheCloud/ClearWeb/Resources/information source/Cience/research.txt",
+		"/D/Business/PAPI-business/Trono/SystemDoc",
+		"/D/LightningFiles/ciencia.txt",
+		"/D/Business/PAPI-business/EXPLORE/plantillas/plantilla alquileres.txt",
+		"/D/TheCloud/ClearWeb/Resources/information source/ingeniering.txt",
+		"/D/TheCloud/ClearWeb/Resources/information source/research",
+		"/D/Business/PAPI-business/EXPLORE/plantillas/plantilla masajistas.txt",
+		"/C/Users/PAPI/Desktop/ahora.txt",
+		"/C/Users/PAPI/Desktop/CodeResources.txt",
+		"/D/Cience/Experience Storage/Programming/general characteristics of programming languajes.txt"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 122.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 57.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 33.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "SistemaDomotico.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"aloja",
+				"6\\¿Cómo quitar Windows e instalar Linux_ - Software Libre_files\\custom-janicama.css"
+			],
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 3
+	}
+}
