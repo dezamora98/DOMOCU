@@ -1,13 +1,14 @@
 class contacto():	
-	def __init__(self,Nombre,Apodo,Edad,Cumple,Cel,Tel,Correo):		
-		self.Nombre = Nombre
-		self.Apodo = Apodo
-		self.Edad = Edad
-		self.Cumple = Cumple
-		self.Cel = Cel
-		self.Tel = Tel
-		self.Correo = Correo		
-	#obtener atributos	
+	def __init__(self,NewNombre='none',NewApodo='none',NewEdad='none',
+				 NewCumple='none',NewCel='none',NewTel='none',NewCorreo='none'):		
+		self.Nombre = NewNombre
+		self.Apodo = NewApodo
+		self.Edad = NewEdad
+		self.Cumple = NewCumple
+		self.Cel = NewCel
+		self.Tel = NewTel
+		self.Correo = NewCorreo		
+	# getters(metodos para obtener atributos)	
 	def getNombre(self):
 		return self.Nombre
 	def getApodo(self):
@@ -22,7 +23,7 @@ class contacto():
 		return self.Tel
 	def getCorreo(self):
 		return self.Correo		
-	#establecer atributos
+	# setters(metodos para establecer atributos)
 	def setNombre(self,NewNombre):
 		self.Nombre = NewNombre
 	def setApodo(self,NewApodo):
