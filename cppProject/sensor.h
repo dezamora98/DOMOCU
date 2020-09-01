@@ -2,23 +2,15 @@
 #ifndef SENSOR_H
 #define SENSOR_H
 #include "string"
+#include "instrumentacion.h"
 
-class sensor{
-private:	
-	std::string Id;
-	std::string ZonaId;
-	std::string VariableMedida;	
-	bool Estado;
+class sensor:public instrumentacion{
+private:			
+	std::string VariableMedida;		
 public:
-	sensor(std::string,std::string,std::string,bool);
-	~sensor();	
-	inline std::string getId()const;
-	inline std::string getZonaId()const;
-	inline std::string getVariableMedida()const;
-	inline bool getEstado()const;
-	inline void setId(const std::string&);
-	inline void setZonaId(const std::string&);
-	inline void setVariableMedida(const std::string&);
-	inline void setEstado();
+	sensor(const std::string&,const std::string&,const std::string&,bool);
+	~sensor();			
+	inline std::string getVariableMedida()const;			
+	inline void setVariableMedida(const std::string&);	
 };
 #endif

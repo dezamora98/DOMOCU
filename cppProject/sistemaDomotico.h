@@ -16,8 +16,7 @@
 class sistemaDomotico{
 private:
 	std::string Id;
-	std::string Version;			
-	//salida Sa;	
+	std::string Version;				
 	//tareaPasiva Tp;
 	//tareaActiva Ta;
 	std::vector<controlador> Co;	
@@ -27,8 +26,7 @@ public:
 	sistemaDomotico(std::string,std::string);
 	~sistemaDomotico();
 	inline std::string getId()const;
-	inline std::string getVersion()const;			
-	//SalidaType getSalida()const;
+	inline std::string getVersion()const;				
 	//TareaType getTarea()const;
 	//getControlador()const;	
 	//getActuador()const;
