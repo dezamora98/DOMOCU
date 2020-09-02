@@ -1,4 +1,4 @@
-//falta la implementacion de constructores y destructores y lo referente a  Zona
+//falta q el equipo lo revise
 #ifndef SENSOR_H
 #define SENSOR_H
 #include "string"
@@ -8,7 +8,9 @@ class sensor:public instrumentacion{
 private:			
 	std::string VariableMedida;		
 public:
-	sensor(const std::string&,const std::string&,const std::string&,bool);
+	sensor();
+	sensor(const std::string& NewId,const std::string& NewZonaId = "null",
+			bool NewEstado = true ,const std::string& NewVariableMedida = "null");
 	~sensor();			
 	inline std::string getVariableMedida()const;			
 	inline void setVariableMedida(const std::string&);	

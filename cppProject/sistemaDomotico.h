@@ -5,6 +5,7 @@
 //las activas son aquellas sobre las q el cliente puede decidir,ejemplo la intensidad,encendido o apagado de la iluminacion 
 //3-definir si se va a utilizar la clase salida como medio para comunicar al sistema las peticiones del usuario
 //4-definir e implementar resto de metodos
+//5-ver q tipo va a devolver la funcion de los estados
 #ifndef sistemaDomotico_H
 #define sistemaDomotico_H 
 #include <string>
@@ -23,20 +24,28 @@ private:
 	std::vector<actuador> Ac;
 	std::vector<sensor> Se;
 public:
-	sistemaDomotico(std::string,std::string);
+	sistemaDomotico(const std::string&,const std::string& = "1.0.0");
 	~sistemaDomotico();
 	inline std::string getId()const;
-	inline std::string getVersion()const;				
-	//TareaType getTarea()const;
-	//getControlador()const;	
-	//getActuador()const;
-	//getSensor()const;
+	inline std::string getVersion()const;						
+	unsigned int getCantidadControladores()const;	
+	unsigned int getCantidadActuadores()const;
+	unsigned int getCantidadSensores()const;
+	void getEstadoControladores();
+	void getEstadoActuadores();
+	void getEstadoSensores();	
 	inline void setId(const std::string&);
-	inline void setVersion(const std::string&);
-	//setSalida();
-	//setTarea();
-	//setControlador();
-	//setActuador();
-	//setSensor();			
+	inline void setVersion(const std::string&);	
+	void insertControlador(const controlador&);
+	void insertActuador(const actuador&);
+	void insertSensor(const sensor&);	
+	//aqui hay q recibir 2 y ver q criterio se va a usar para remplazarlos
+	void replaceControlador(const controlador&); 
+	void replaceActuador(const actuador&); 
+	void replaceSensor(const sensor&); 
+	void removeControlador(); 
+	void removeActuador(); 
+	void removeSensor(); 
+	//TareaType getTareaActivaPendiente()const;
 };
 #endif

@@ -1,3 +1,6 @@
+//falta :
+//q la revisen el resto del equipo para ve si se ajusta a las necesidades
+//decidir como implementar la zona
 #ifndef INSTRUMENTACION_H
 #define INSTRUMENTACION_H
 #include "string"
@@ -9,9 +12,9 @@ private:
 	bool Estado;
 public:
 	instrumentacion();
-	instrumentacion(const instrumentacion&);
+	instrumentacion(const std::string& NewId = 'null',const std::string& NewZonaId = 'null',bool NewEstado = true);
 	instrumentacion(std::string,std::string,std::string,bool);
-	~instrumentacion();	
+	virtual ~instrumentacion();	
 	inline std::string getId()const;
 	inline std::string getZonaId()const;	
 	inline bool getEstado()const;

@@ -11,10 +11,11 @@ private:
 	std::string Cel;
 	std::string Tel;
 	std::string Correo;
-public:
-	contacto(std::string,std::string,std::string,std::string,std::string,std::string,std::string);
+public:	
+	contacto(const std::string&,const std::string="null",const std::string& = "null",const std::string& = "null",
+			 const std::string& = "null",const std::string& = "null",const std::string& = "null");
 	~contacto();
-	//obtener valores de atributos
+	//getters(metodos para obtener valores de atributos)
 	inline std::string getNombre()const;
 	inline std::string getApodo()const;
 	inline std::string getEdad()const;
@@ -22,7 +23,7 @@ public:
 	inline std::string getCel()const;
 	inline std::string getTel()const;
 	inline std::string getCorreo()const;
-	//establecer valores de atributos
+	//setters(metodos para establecer valores de atributos)
 	inline void setNombre(const std::string&);
 	inline void setApodo(const std::string&);
 	inline void setEdad(const std::string&);
