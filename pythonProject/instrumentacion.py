@@ -1,7 +1,7 @@
 #definir como implementar ZonaId
 class instrumentacion():
 	"""superclase de las clases sensor,actuador y controlador"""
-	def __init__(self,NewId = none,NewZonaId = 'none',NewVariableAsociada = 'none',NewEstado = True):		
+	def __init__(self,NewId = 'null',NewZonaId = 'null',NewVariableAsociada = 'null',NewEstado = True):		
 		self.Id = NewId
 		self.ZonaId = NewZonaId		
 		self.Estado = NewEstado		

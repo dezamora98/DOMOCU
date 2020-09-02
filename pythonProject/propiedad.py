@@ -1,15 +1,19 @@
-#decidir como implementar el estado ('todo rico','robo','mal clima','fuga agua','fuga gas')
-#definir como incorporar sistemaDomotico
-#definir mediante q estructura de datos implementar las zonas de la casa
+# falta:
+#1-decidir como implementar el estado ('todo rico','robo','mal clima','fuga agua','fuga gas')
+#2-definir como incorporar sistemaDomotico
+#3-definir mediante q estructura de datos implementar las zonas de la casa
+#4-determinar como se va a inicializar el sistema domotico
+import sistemaDomotico.py as sd
 
-class propiedad(object):
+class propiedad():
 	"""docstring for propiedad"""
-	def __init__(self,NewId = 'none',NewDireccion = 'none',NewServicios = [],
+	def __init__(self,NewId = 'null',NewDireccion = 'null',NewServicios = [],
 				 NewEstado = ('todo rico','robo','mal clima','fuga de agua','fuga de gas')):
 	self.Id = NewId		
 	self.Direccion = NewDireccion		
 	self.Servicios = NewServicios		
-	Estado = NewEstado[1]
+	self.Estado = NewEstado
+	self.SistemaDomotico = sd.sistemaDomotico()
 	def getId(self):
 		return self.Id
 	def getDireccion(self):
@@ -22,3 +26,13 @@ class propiedad(object):
 		self.Direccion = NewDireccion
 	def setServicios(self,NewServicios):
 		self.Servicios = NewServicios
+	#Zona: la propiedad se va a dividir por pisos(p) y cada piso en seccion(s)la zona es una combinacion de piso,seccion(p,s)
+	#sistemaDomotico Sd;	// la representacion del sistema,esta es la clase con la q ha de interactual la interfaz 
+
+	def getEstado():
+	def setEstado():			
+	#ver criterio de busqueda para los siguientes metodos
+	def replaceServicios(): 
+	def replaceEstado(): 
+	def removeServicios(): 
+	def removeEstado(): 			

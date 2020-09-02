@@ -1,6 +1,6 @@
 class contacto():	
-	def __init__(self,NewNombre='none',NewApodo='none',NewEdad='none',
-				 NewCumple='none',NewCel='none',NewTel='none',NewCorreo='none'):		
+	def __init__(self,NewNombre,NewApodo='null',NewEdad='null',
+				 NewCumple='null',NewCel='null',NewTel='null',NewCorreo='null'):		
 		self.Nombre = NewNombre
 		self.Apodo = NewApodo
 		self.Edad = NewEdad
